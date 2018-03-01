@@ -49,10 +49,10 @@
       "github": "https://github.com/ddtraceweb"
     }
   ],
-  "homepage": "http://ddtraceweb.github.com/ddtraceweb_short",
+  "homepage": "http://ddtraceweb.github.com/short",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ddtraceweb/ddtraceweb_short.git"
+    "url": "git://github.com/ddtraceweb/short.git"
   },
   "keywords": [
     "short",
@@ -77,11 +77,11 @@
     "snyk": "^1.69.10"
   },
   "bugs": {
-    "url": "https://github.com/ddtraceweb/ddtraceweb_short/issues"
+    "url": "https://github.com/ddtraceweb/short/issues"
   },
   "license": {
     "type": "MIT",
-    "url": "http://github.com/ddtraceweb/ddtraceweb_short/LICENSE"
+    "url": "http://github.com/ddtraceweb/short/LICENSE"
   },
   "scripts": {
     "test": "snyk test && vows test/*.test.js --spec"

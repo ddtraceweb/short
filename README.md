@@ -1,7 +1,7 @@
 
 # short [![Build Status](https://secure.travis-ci.org/edwardhotchkiss/short.png)](http://travis-ci.org/edwardhotchkiss/short) [![Dependency Status](https://david-dm.org/edwardhotchkiss/short.png?theme=shields.io)](https://david-dm.org/edwardhotchkiss/short)
 
-[![NPM](https://nodei.co/npm/short.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/short/)
+[![NPM](https://nodei.co/npm/short.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/ddtraceweb_short/)
 
 > Node.js URL Shortener backed by Mongoose.js
 

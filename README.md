@@ -10,7 +10,7 @@ _**No Callbacks, just Promises!**_
 ## Installation
 
 ```bash
-$ npm install short
+$ npm install ddtraceweb_short
 ```
 
 ***

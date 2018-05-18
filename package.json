@@ -1,6 +1,6 @@
 {
   "name": "ddtraceweb_short",
-  "version": "2.8.1",
+  "version": "2.8.2",
   "author": "Edward Hotchkiss <edward@edwardhotchkiss.com>",
   "description": "Node.js URL Shortener backed by Mongoose.js",
   "contributors": [

@@ -1,6 +1,6 @@
 {
   "name": "ddtraceweb_short",
-  "version": "2.8.3",
+  "version": "2.8.5",
   "author": "Edward Hotchkiss <edward@edwardhotchkiss.com>",
   "description": "Node.js URL Shortener backed by Mongoose.js",
   "contributors": [
@@ -68,13 +68,13 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
-    "mongoose": "^5.0.16",
-    "node-promise": "0.5.8",
-    "short-id": "0.1.0-1"
+    "mongoose": "^5.3.7",
+    "node-promise": "^0.5.13",
+    "short-id": "^0.1.0-1"
   },
   "devDependencies": {
-    "vows": "0.7.0",
-    "snyk": "^1.69.10"
+    "snyk": "^1.105.0",
+    "vows": "^0.7.0"
   },
   "bugs": {
     "url": "https://github.com/ddtraceweb/short/issues"
